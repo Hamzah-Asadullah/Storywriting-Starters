@@ -1,23 +1,6 @@
----
-license: mit
-task_categories:
-- text-generation
-language:
-- en
-tags:
-- creative
-- writing
-- storywriting
-- rp
-- roleplay
-- synthetic
-size_categories:
-- 1K<n<10K
----
-
 > [!NOTE]
 > Creating a pipeline to synthesize this dataset to reasonable quality took quite some effort, money and time.  
-> If you use this dataset, please consider liking this repo to show your appreciation.
+> If you use this dataset, please consider starring this repo to show your appreciation.
 
 ```
 8,192 samples of "first-message" stuff, mainly designed for storywriting/roleplay/similar.
